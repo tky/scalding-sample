@@ -18,4 +18,4 @@ Usage
 
   Ok, now you can run this simple project 
 
-  scripts/scald.rb src/main/scala/Sample1.scala
+  scripts/scald.rb --local src/main/scala/Sample1.scala
